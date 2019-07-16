@@ -327,3 +327,9 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Link to work:** my portfolio repo here, V3. 
 
 
+### Day 37: July  16, 2019.
+
+**Today's Progress**: Learned more about PHP, PDO, SQL... 
+
+**Thoughts:** A LOT to learn but very interesting ! 
+
