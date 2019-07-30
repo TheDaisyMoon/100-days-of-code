@@ -309,7 +309,7 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 
 
-### Day 36: July  14, 2019.
+### Day 37: July  14, 2019.
 
 **Today's Progress**: Decided to restart my portfolio from scratch again, for the third time. 
 
@@ -318,7 +318,7 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Link to work:** my portfolio repo here, V3. 
 
 
-### Day 36: July  15, 2019.
+### Day 38: July  15, 2019.
 
 **Today's Progress**: Still worked on the portfolio. 
 
@@ -327,9 +327,112 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Link to work:** my portfolio repo here, V3. 
 
 
-### Day 37: July  16, 2019.
+### Day 39: July  16, 2019.
 
 **Today's Progress**: Learned more about PHP, PDO, SQL... 
 
 **Thoughts:** A LOT to learn but very interesting ! 
 
+
+
+### Day 40: July 17, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+
+### Day 41: July 18, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+
+### Day 42: July 19, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+
+### Day 43: July 20, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 44: July 21, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 45: July 22, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 46: July 23, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 47: July 24, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+
+### Day 48: July 25, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+
+### Day 49: July 26, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 50: July 27, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 51: July 28, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 52: July 29, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+
+### Day 53: July 30, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:**
