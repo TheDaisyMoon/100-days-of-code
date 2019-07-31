@@ -337,84 +337,84 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 ### Day 40: July 17, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Another day with PHP !
 
-**Thoughts:**
+**Thoughts:** Fun ! Fun ! Fun ! 
 
 
 
 ### Day 41: July 18, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Began a mock shop website in php. 
 
-**Thoughts:**
+**Thoughts:** Learning so much. It's weird because it feels very logical to me, which was not the cas with javascript, so I'm feeling pretty happy right now ! 
 
 
 
 ### Day 42: July 19, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Still learning php and worked a little bit on my porfolio. 
 
-**Thoughts:**
+**Thoughts:** Php => fun. Portfolio => not so much right now. 
 
 
 
 ### Day 43: July 20, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Php and porfolio again. 
 
-**Thoughts:**
+**Thoughts:** I'm really getting stuck on the porfolio and I'm getting a little scared. I need to try to do what I want to do in javascript but I think I'm kinda procrastinating. 
 
 
 ### Day 44: July 21, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Worked on my portfolio. 
 
-**Thoughts:**
+**Thoughts:** Still stuck because of my fear of javascript. 
 
 
 ### Day 45: July 22, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Still learning php. 
 
-**Thoughts:**
+**Thoughts:** It was a rough day. The heatwave did not make it easy to concentrate. 
 
 
 ### Day 46: July 23, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Php. 
 
-**Thoughts:**
+**Thoughts:** The heat is killing me and kinda taking all of the fun out of learning php. Help. 
 
 
 ### Day 47: July 24, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: See above. 
 
-**Thoughts:**
+**Thoughts:** See above too. 
 
 
 
 ### Day 48: July 25, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Portfolio and a little bit of php. 
 
-**Thoughts:**
+**Thoughts:** Stayed home because of the heat. Still was hard as hell to concentrate, but at least I did some work. 
 
 
 
 ### Day 49: July 26, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Php exam. 
 
-**Thoughts:**
+**Thoughts:** Was my first php exam (having a second in two weeks). I'm really happy because even if I did have a hard time with one little thing, I basically knew what I was doing and it was a great feeling. 
 
 
 ### Day 50: July 27, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Did my quote generator in javascript for my portfolio !! 
 
-**Thoughts:**
+**Thoughts:** OMG I did it ! And it wasn't even that hard ! I'm pretty proud of myself ! Also I can't believe I've already been coding for 50 days straight ! 
 
 
 ### Day 51: July 28, 2019.
